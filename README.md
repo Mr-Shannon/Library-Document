@@ -66,6 +66,7 @@
 	- STM32_USB_Host_Library
 	- STM32_USB-FS-Device_Lib_V3.0.1
 	- STM32_USB-FS-Device_Lib_V4.0.0
+	- STM32_USB-FS-Device_Lib_V4.1.0
 
 ### Manuals ###
 - en.STM32F103x8_B_Datasheet.pdf
